@@ -1,0 +1,2 @@
+llama-index
+google-cloud-storage

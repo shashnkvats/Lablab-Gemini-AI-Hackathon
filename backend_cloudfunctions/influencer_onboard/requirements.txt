@@ -1,0 +1,16 @@
+functions-framework==3.*
+apify
+pandas
+numpy
+starlette
+google-cloud-aiplatform
+google-cloud
+google-generativeai
+google-cloud-storage
+requests
+python-dateutil
+kaleido
+Pillow
+llama-index
+chromadb
+

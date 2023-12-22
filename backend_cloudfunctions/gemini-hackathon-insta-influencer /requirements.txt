@@ -1,0 +1,6 @@
+llama-index
+google-generativeai>=0.3.0
+matplotlib
+qdrant_client
+trulens-eval
+google-cloud-storage
