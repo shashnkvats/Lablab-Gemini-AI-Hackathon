@@ -1,5 +1,5 @@
 # InstaImpact 
-![ScreenShot](https://raw.github.com/{shashnkvats}/{Lablab-Gemini-AI-Hackathon}/{master}/{Screenshot 2023-12-22 at 18.18.59.png})
+![ScreenShot](https://raw.github.com/{shashnkvats}/{Lablab-Gemini-AI-Hackathon}/{master}/{screenshot.png})
 ## Introduction
 <p>InstaImpact is an innovative application designed to leverage the power of Apify for extracting detailed information about Instagram influencers. It combines the capabilities of Apify and the multimodal functionalities of Gemini to build comprehensive profiles of influencers. This tool is especially valuable for brands looking to engage more effectively with their current and prospective users through targeted influencer marketing.</p>
 
