@@ -2,7 +2,7 @@
 ## Introduction
 <p>InstaImpact is an innovative application designed to leverage the power of Apify for extracting detailed information about Instagram influencers. It combines the capabilities of Apify and the multimodal functionalities of Gemini to build comprehensive profiles of influencers. This tool is especially valuable for brands looking to engage more effectively with their current and prospective users through targeted influencer marketing.</p>
 
-##Features
+## Features
 ### Influencer Data Extraction
 * <b>Apify Integration:</b> Utilizes Apify to scrape Instagram for influencer data, including posts (images and videos).
 * <b>Comprehensive Data Collection:</b> Gathers extensive information about each influencer, such as engagement rates, follower demographics, and content analysis.
